@@ -1,0 +1,4 @@
+tets                                      abbr. 四次甲基二砜四胺
+test                 [tɛst]               n. 试验；检验 vt. 试验；测试 vi. 试验；测试 n. (Test)人名；(英)特斯特
+hello                [həˈlo]              int. 喂；哈罗 n. 表示问候， 惊奇或唤起注意时的用语 n. (Hello)人名；(法)埃洛
+theorem              ['θiərəm]            n. [数] 定理；原理
